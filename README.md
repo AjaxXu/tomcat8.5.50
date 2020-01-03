@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
@@ -78,6 +77,3 @@ instructions for reporting a bug
 ### Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
-=======
-# tomcat8.5.50
->>>>>>> fa8d97441edf3a964ee55c1f54a0914f848f9b18
